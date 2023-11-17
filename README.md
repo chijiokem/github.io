@@ -12,7 +12,10 @@ In this project i took raw housing data and transformed it in SQL to make it mor
 ![covid image](https://github.com/chijiokem/github.io/assets/140365222/dce4a077-b4c1-4e98-be85-bd1992cd9b46)
 
 
-In this project SQL was used to explore global COVID 19 data looking at Covid deaths versus Covid Vaccinations across different continents
+In this project SQL was used to explore global COVID 19 data looking at Covid deaths versus Covid Vaccinations across different continents.
+Data for the total deaths across Africa was extracted, also the infection rate was determined with respect to the population.
+I also considered the country with the heighest infection rate was obtainred with respect to the population as gotten fron the data
+
 
 # [Project 3: Web Scraping of ContractsFinder.com Using Python](https://github.com/chijiokem/webscraping)
  In this project selenium a python package was used to scrap contractsfinders.com for offers
